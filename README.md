@@ -11,7 +11,7 @@ before reading on, please look through the file structure of this repo. most fil
 
 ## packages
 
-[tailwind css + postcss](https://tailwindcss.com/)  
+tailwind css + postcss
 - [tailwind](https://tailwindcss.com/) is a css framework i use as i find
 inline styles a lot easier to work with  
 - for any global/new styles, like a color scheme i want to use, i put them in my tailwind.config.cjs  
